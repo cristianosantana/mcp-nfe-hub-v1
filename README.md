@@ -1,10 +1,6 @@
-## Nome
-Mcp NFe Hub
+## Mcp NFe Hub
 
-## Descrição curta (1 linha, para campos com limite de caractere)
-Consulta o status oficial de NFe na SEFAZ a partir da chave de acesso — autorizada, cancelada ou denegada, com protocolo.
-
-## Descrição longa (para o campo "description" / README do formulário)
+## Descrição 
 O NFe Hub conecta assistentes de IA (Claude, ChatGPT etc.) diretamente à consulta oficial de Notas Fiscais Eletronicas na SEFAZ. A partir da chave de acesso de 44 digitos, retorna em segundos:
 
 - Situação da nota (autorizada, cancelada, denegada)
@@ -16,7 +12,7 @@ Feito para escritórios de contabilidade e departamentos fiscais que hoje confer
 
 O certificado digital e as credenciais de acesso não passam pelo modelo de IA — ficam apenas na integração com o emissor.
 
-## Categoria/tags sugeridas
+## Categoria/tags
 fiscal, nfe, sefaz, contabilidade, brasil, tax, invoice, accounting, finance
 
 ## Ferramenta exposta
