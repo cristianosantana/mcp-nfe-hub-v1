@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.cristianosantana/mcp-nfe-hub-v1",
   "title": "NFe Hub",
-  "description": "Consulta o status oficial de Notas Fiscais Eletronicas (NFe) diretamente na SEFAZ a partir da chave de acesso de 44 digitos, retornando protocolo de autorizacao, data/hora e situacao (autorizada, cancelada, denegada). Pensado para escritorios de contabilidade que hoje conferem esse status manualmente no portal ou por WhatsApp.",
+  "description": "Consulta status de NFe na SEFAZ pela chave de acesso: autorizada, cancelada, protocolo.",
   "websiteUrl": "https://mcp-nfe-hub.onrender.com",
   "repository": {
     "url": "https://github.com/cristianosantana/mcp-nfe-hub-v1",
